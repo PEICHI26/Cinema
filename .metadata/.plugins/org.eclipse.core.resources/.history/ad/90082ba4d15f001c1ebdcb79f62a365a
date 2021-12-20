@@ -1,0 +1,22 @@
+<%@page import="org.apache.jasper.tagplugins.jstl.core.ForEach"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Query all</title>
+</head>
+<body>
+<h1>All Movies</h1>
+  <jsp:useBean id="allMovie" class="tw.cinema.model.Movie" scope="session" />
+  <table>
+  <c:forEach items="${allMovie}" var="item">
+    <tr>
+      <td><c:out value="${item}" /></td>
+    </tr>
+  </c:forEach>
+</table>
+
+</body>
+</html>

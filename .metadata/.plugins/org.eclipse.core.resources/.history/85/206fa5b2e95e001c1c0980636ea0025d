@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+
+    <session-factory>
+
+        <!-- JDBC Database connection settings -->
+        <property name="connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+        <property name="connection.url">jdbc:sqlserver://localhost:1433;databaseName=MovieDB</property>
+        <property name="connection.username">sa</property>
+        <property name="connection.password">123456</property>
+
+
+        <!-- Select our SQL dialect -->
+        <property name="dialect">org.hibernate.dialect.SQLServerDialect</property>
+
+        <!-- Echo the SQL what hibernate is done -->
+        <property name="show_sql">true</property>
+        <property name="format_sql">true</property>
+        
+        <property name="connection.pool_size">2</property>
+        <property name="current_session_context_class">thread</property>
+        
+        <!--mapping 必須要放在property之後,按右鍵-> source-> toggle comment-->
+        <mapping resource="tw/hibernatedemo/model/CompanyBean.hbm.xml"/>
+       
+		<!-- Set the current session context -->
+		
+         
+         
+    </session-factory>
+
+</hibernate-configuration>

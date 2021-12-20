@@ -1,0 +1,140 @@
+package tw.cinema.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Iterator;
+import java.util.List;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import org.hibernate.SessionFactory;
+
+
+
+import tw.cinema.model.Movie;
+import tw.cinema.service.MovieService;
+
+
+@WebServlet("/MovieServlet")
+public class MovieServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    
+    public MovieServlet() {
+        super();
+       
+    }
+
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		request.setCharacterEncoding("UTF-8");
+		
+		MovieService movieService = new MovieService();
+		if (request.getParameter("QUERY") != null) {
+		   processQuery(request, response, movieService);
+		}
+		if (request.getParameter("QUERYALL") != null) {
+			   processQueryAll(request, response, movieService);
+			}
+
+		if (request.getParameter("INSERT") != null) {
+			processInsert(request, response, movieService);
+		}
+		if (request.getParameter("DELETE") != null) {
+			processDelete(request, response,movieService);
+		}
+		if (request.getParameter("UPDATENAME") != null) {
+			processUpdateName(request, response, movieService);
+		}
+		
+	}
+
+
+	private void processQueryAll(HttpServletRequest request, HttpServletResponse response, MovieService movieService) throws ServletException, IOException {
+	  List<Movie> allMovie = movieService.selectAll();
+	  request.getSession(true).setAttribute("allMovie", allMovie);
+	  response.setContentType("text/html");
+	  response.setCharacterEncoding("UTF-8");
+	  PrintWriter out = response.getWriter();
+	  if (allMovie !=null) {
+		  request.getRequestDispatcher("QueryAll.jsp").forward(request, response);
+		}
+		  	
+	}
+
+
+	private void processUpdateName(HttpServletRequest request, HttpServletResponse response, MovieService movieService) {
+		int movieno = Integer.parseInt(request.getParameter("movieno"));
+		String moviename = request.getParameter("moviename");
+		
+		movieService.updateName(movieno, moviename);
+		
+		
+	}
+
+
+	private void processDelete(HttpServletRequest request, HttpServletResponse response, MovieService movieService) throws ServletException, IOException {
+		int movieno = Integer.parseInt(request.getParameter("movieno"));
+		boolean deleteMovie = movieService.delete(movieno);
+		if (deleteMovie) {
+			request.getRequestDispatcher("DeleteResult.jsp").forward(request, response);
+		}else {
+			request.getRequestDispatcher("Error.jsp").forward(request, response);
+		}
+		
+	}
+
+
+	private void processInsert(HttpServletRequest request, HttpServletResponse response, MovieService movieService) throws ServletException, IOException {
+		String moviename = request.getParameter("moviename");
+		Integer movielength = Integer.parseInt(request.getParameter("movielength"));
+		String type = request.getParameter("type");
+		String grading = request.getParameter("grading");
+		String release = request.getParameter("release");
+		String director = request.getParameter("director");
+		String actors = request.getParameter("actors");
+		String intro = request.getParameter("intro");
+		SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
+		Date date = null;
+		try {
+			date = (Date)formatter.parse(request.getParameter("rdate"));
+		} catch (ParseException e) {
+			
+			e.printStackTrace();
+		}
+		Movie movie = new Movie(moviename, date, movielength, type, grading, release, director, actors, intro);
+		request.getSession(true).setAttribute("movie", movie);
+		Movie insertMovie = movieService.insert(movie);
+		if (insertMovie !=null) {
+			request.getRequestDispatcher("CreateResult.jsp").forward(request, response);
+			request.getSession(true).invalidate();
+		} else {
+            request.getRequestDispatcher("Error.jsp").forward(request, response);
+		}
+		
+	}
+
+
+	private void processQuery(HttpServletRequest request, HttpServletResponse response, MovieService movieService) throws ServletException, IOException {
+		int movieno = Integer.parseInt(request.getParameter("movieno"));
+		Movie themovie = movieService.select(movieno);
+		request.getSession(true).setAttribute("themovie", themovie);
+		if (themovie !=null) {
+			request.getRequestDispatcher("QueryResult.jsp").forward(request, response);
+		}else {
+			request.getRequestDispatcher("Error.jsp").forward(request, response);
+		}
+	}
+
+
+	
+
+}

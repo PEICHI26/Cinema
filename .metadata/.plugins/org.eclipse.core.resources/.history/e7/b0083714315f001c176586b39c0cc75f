@@ -1,0 +1,32 @@
+package tw.cinema.service;
+
+
+import tw.cinema.model.Movie;
+import tw.cinema.model.MovieDao;
+
+public class MovieService {
+  private MovieDao movieDao;
+	
+  public MovieService() {
+	
+	  this.movieDao= new MovieDao();
+	
+  }
+  public Movie insert(Movie movie) {
+	Movie newMovie = movieDao.insert(movie);
+	if (newMovie!=null) {
+		return newMovie;
+	}
+	return null;
+}
+  
+  public Movie selectByName(String name) {
+		Movie movie = movieDao.selectByName(name);
+		return movie;
+	}
+//  public boolean deleteByName(String name) {
+//	boolean deleteMovie = movieDao.deleteByName(name);
+//	return deleteMovie;
+//}
+
+}

@@ -1,0 +1,15 @@
+package tw.cinema.model;
+
+import org.hibernate.SessionFactory;
+
+import tw.cinema.util.HibernateUtil;
+
+public class MovieDao {
+	
+	private SessionFactory factory;
+	
+	public MovieDao() {
+	this.factory = HibernateUtil.getSessionFactory();
+	}
+
+}

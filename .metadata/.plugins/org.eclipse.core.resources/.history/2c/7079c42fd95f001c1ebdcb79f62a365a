@@ -1,0 +1,51 @@
+package tw.cinema.service;
+
+
+
+import java.util.List;
+
+
+import tw.cinema.model.Movie;
+import tw.cinema.model.MovieDao;
+
+public class MovieService {
+  
+	private MovieDao movieDao;
+	
+  public MovieService() {
+	
+	  this.movieDao= new MovieDao();
+	
+  }
+  public Movie insert(Movie movie) {
+	Movie newMovie = movieDao.insert(movie);
+	if (newMovie != null) {
+		return newMovie;
+	}
+	return null;
+}
+  
+  public boolean delete(int id) {
+	  boolean oneMovie = movieDao.delete(id);
+	return oneMovie;
+}
+  public Movie select(int id) {
+	Movie oneMovie = movieDao.select(id);
+	return oneMovie;
+}
+  
+  public List<Movie> selectAll() {
+		List<Movie> all= movieDao.selectAll();
+		return all;
+	}
+  
+  public Movie updateName(int id, String name) {
+	Movie updateMovie = movieDao.updateName(id, name);
+	return updateMovie;
+}
+  public Movie updateLength(int id, int movielength) {
+	Movie updateMovie = movieDao.updateLength(id, movielength);
+	return updateMovie;
+}
+
+}

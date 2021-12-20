@@ -1,0 +1,29 @@
+package tw.cinema.service;
+
+
+
+import tw.cinema.model.Movie;
+import tw.cinema.model.MovieDao;
+
+public class MovieService {
+  
+	private MovieDao movieDao;
+	
+  public MovieService() {
+	
+	  this.movieDao= new MovieDao();
+	
+  }
+  public Movie insert(Movie movie) {
+	Movie newMovie = movieDao.insert(movie);
+	if (newMovie != null) {
+		return newMovie;
+	}
+	return null;
+}
+  
+  
+  
+ 
+
+}

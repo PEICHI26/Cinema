@@ -1,0 +1,23 @@
+<%@page import="tw.cinema.model.Movie"%>
+<%@page import="org.apache.jasper.tagplugins.jstl.core.ForEach"%>
+<%@page import="tw.cinema.controller.MovieServlet" %>
+<%@page import="tw.cinema.model.Movie" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page import="java.util.List"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Query all</title>
+</head>
+<body>
+<h1>All Movies</h1>
+
+<% List<Movie> movies = (List <Movie>)request.getAttribute("allMovie"); 
+  
+  %>
+
+
+</body>
+</html>

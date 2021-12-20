@@ -1,0 +1,11 @@
+package tw.cinema.util;
+import org.hibernate.SessionFactory;
+
+public class HibernateUtil {
+   
+	private static final SessionFactory factory = creatSessionFactory();
+   
+   private static SessionFactory createSessionFactory() {
+	   
+   }
+}

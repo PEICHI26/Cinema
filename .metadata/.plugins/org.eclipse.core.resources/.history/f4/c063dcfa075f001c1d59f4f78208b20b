@@ -1,0 +1,9 @@
+package tw.cinema.service;
+
+public class MovieService {
+
+	public MovieService() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

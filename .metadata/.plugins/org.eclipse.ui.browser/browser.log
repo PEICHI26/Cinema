@@ -1,0 +1,377 @@
+
+12月 17, 2021 19:33:20.660 NEW SESSION
+12月 17, 2021 19:33:20.660 [14816:1740:1217/193320.654:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 17, 2021 19:33:20.660 [14816:1740:1217/193320.654:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 17, 2021 19:33:20.660 [14816:1740:1217/193320.654:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 17, 2021 19:33:20.660 [14816:1740:1217/193320.655:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 17, 2021 19:33:20.660 [14816:7784:1217/193320.657:ERROR:device_event_log_impl.cc(214)] [19:33:20.657] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 17, 2021 19:33:20.668 [14816:7784:1217/193320.667:ERROR:device_event_log_impl.cc(214)] [19:33:20.667] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 17, 2021 19:34:12.48 [5516:2916:1217/193412.048:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 17, 2021 19:34:12.49 [5516:2916:1217/193412.048:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 17, 2021 19:34:12.49 [5516:2916:1217/193412.048:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 17, 2021 19:34:12.49 [5516:2916:1217/193412.049:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 17, 2021 19:34:12.51 [5516:14528:1217/193412.051:ERROR:device_event_log_impl.cc(214)] [19:34:12.051] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 17, 2021 19:34:12.54 [5516:14528:1217/193412.053:ERROR:device_event_log_impl.cc(214)] [19:34:12.054] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 17, 2021 19:35:31.580 NEW SESSION
+12月 17, 2021 19:35:31.580 [8376:1784:1217/193531.579:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 17, 2021 19:35:31.580 [8376:1784:1217/193531.579:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 17, 2021 19:35:31.581 [8376:1784:1217/193531.579:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 17, 2021 19:35:31.581 [8376:1784:1217/193531.580:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 17, 2021 19:35:31.582 [8376:12204:1217/193531.582:ERROR:device_event_log_impl.cc(214)] [19:35:31.582] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 17, 2021 19:35:31.585 [8376:12204:1217/193531.585:ERROR:device_event_log_impl.cc(214)] [19:35:31.584] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 17, 2021 19:36:25.353 [1956:1272:1217/193625.352:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 17, 2021 19:36:25.353 [1956:1272:1217/193625.352:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 17, 2021 19:36:25.353 [1956:1272:1217/193625.352:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 17, 2021 19:36:25.353 [1956:1272:1217/193625.353:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 17, 2021 19:36:25.356 [1956:1812:1217/193625.355:ERROR:device_event_log_impl.cc(214)] [19:36:25.356] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 17, 2021 19:36:25.358 [1956:1812:1217/193625.357:ERROR:device_event_log_impl.cc(214)] [19:36:25.358] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 17, 2021 19:41:00.977 [8032:13140:1217/194100.976:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 17, 2021 19:41:00.977 [8032:13140:1217/194100.977:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 17, 2021 19:41:00.977 [8032:13140:1217/194100.977:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 17, 2021 19:41:00.977 [8032:13140:1217/194100.977:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 17, 2021 19:41:00.979 [8032:16764:1217/194100.979:ERROR:device_event_log_impl.cc(214)] [19:41:00.979] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 17, 2021 19:41:00.981 [8032:16764:1217/194100.981:ERROR:device_event_log_impl.cc(214)] [19:41:00.981] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 17, 2021 19:55:41.11 NEW SESSION
+12月 17, 2021 19:55:41.11 [3920:14240:1217/195541.010:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 17, 2021 19:55:41.15 [3920:14240:1217/195541.010:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 17, 2021 19:55:41.15 [3920:14240:1217/195541.010:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 17, 2021 19:55:41.15 [3920:14240:1217/195541.011:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 17, 2021 19:55:41.16 [3920:8624:1217/195541.012:ERROR:device_event_log_impl.cc(214)] [19:55:41.013] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 17, 2021 19:55:41.16 [3920:8624:1217/195541.015:ERROR:device_event_log_impl.cc(214)] [19:55:41.015] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 17, 2021 20:23:04.68 NEW SESSION
+12月 17, 2021 20:23:04.68 [11884:3668:1217/202304.067:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 17, 2021 20:23:04.72 [11884:3668:1217/202304.067:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 17, 2021 20:23:04.73 [11884:3668:1217/202304.067:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 17, 2021 20:23:04.73 [11884:3668:1217/202304.068:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 17, 2021 20:23:04.73 [11884:1440:1217/202304.070:ERROR:device_event_log_impl.cc(214)] [20:23:04.070] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 17, 2021 20:23:04.76 [11884:1440:1217/202304.076:ERROR:device_event_log_impl.cc(214)] [20:23:04.075] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 18, 2021 08:56:08.603 NEW SESSION
+12月 18, 2021 08:56:08.603 [12280:13016:1218/085608.598:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 08:56:08.604 [12280:13016:1218/085608.598:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 08:56:08.604 [12280:13016:1218/085608.598:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 08:56:08.604 [12280:13016:1218/085608.599:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 08:56:08.604 [12280:8320:1218/085608.601:ERROR:device_event_log_impl.cc(214)] [08:56:08.600] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 08:56:08.604 [12280:8320:1218/085608.603:ERROR:device_event_log_impl.cc(214)] [08:56:08.603] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 09:36:57.939 [9884:1216:1218/093657.938:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 09:36:57.939 [9884:1216:1218/093657.938:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 09:36:57.939 [9884:1216:1218/093657.938:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 09:36:57.939 [9884:1216:1218/093657.939:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 09:36:57.941 [9884:3476:1218/093657.941:ERROR:device_event_log_impl.cc(214)] [09:36:57.941] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 09:36:57.944 [9884:3476:1218/093657.944:ERROR:device_event_log_impl.cc(214)] [09:36:57.944] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 18, 2021 09:39:31.867 NEW SESSION
+12月 18, 2021 09:39:31.867 [7932:5056:1218/093931.866:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 09:39:31.868 [7932:5056:1218/093931.866:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 09:39:31.868 [7932:5056:1218/093931.866:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 09:39:31.868 [7932:5056:1218/093931.867:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 09:39:31.869 [7932:2380:1218/093931.869:ERROR:device_event_log_impl.cc(214)] [09:39:31.869] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 09:39:31.871 [7932:2380:1218/093931.871:ERROR:device_event_log_impl.cc(214)] [09:39:31.871] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 09:40:29.142 [7720:16376:1218/094029.142:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 09:40:29.143 [7720:16376:1218/094029.142:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 09:40:29.143 [7720:16376:1218/094029.142:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 09:40:29.143 [7720:16376:1218/094029.143:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 09:40:29.145 [7720:6160:1218/094029.145:ERROR:device_event_log_impl.cc(214)] [09:40:29.145] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 09:40:29.148 [7720:6160:1218/094029.147:ERROR:device_event_log_impl.cc(214)] [09:40:29.148] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 18, 2021 09:43:21.977 NEW SESSION
+12月 18, 2021 09:43:21.977 [3868:16084:1218/094321.977:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 09:43:21.978 [3868:16084:1218/094321.977:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 09:43:21.978 [3868:16084:1218/094321.977:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 09:43:21.978 [3868:16084:1218/094321.977:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 09:43:21.980 [3868:3872:1218/094321.980:ERROR:device_event_log_impl.cc(214)] [09:43:21.980] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 09:43:21.993 [3868:3872:1218/094321.992:ERROR:device_event_log_impl.cc(214)] [09:43:21.992] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 18, 2021 09:46:48.440 NEW SESSION
+12月 18, 2021 09:46:48.440 [2952:10708:1218/094648.439:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 09:46:48.440 [2952:10708:1218/094648.439:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 09:46:48.441 [2952:10708:1218/094648.439:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 09:46:48.441 [2952:10708:1218/094648.440:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 09:46:48.442 [2952:14120:1218/094648.442:ERROR:device_event_log_impl.cc(214)] [09:46:48.441] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 09:46:48.444 [2952:14120:1218/094648.444:ERROR:device_event_log_impl.cc(214)] [09:46:48.444] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 09:47:23.582 [7244:1304:1218/094723.582:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 09:47:23.583 [7244:1304:1218/094723.582:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 09:47:23.583 [7244:1304:1218/094723.582:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 09:47:23.583 [7244:1304:1218/094723.583:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 09:47:23.585 [7244:8980:1218/094723.585:ERROR:device_event_log_impl.cc(214)] [09:47:23.585] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 09:47:23.587 [7244:8980:1218/094723.587:ERROR:device_event_log_impl.cc(214)] [09:47:23.587] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 18, 2021 10:09:16.261 NEW SESSION
+12月 18, 2021 10:09:16.261 [12092:8676:1218/100916.260:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 10:09:16.261 [12092:8676:1218/100916.260:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 10:09:16.262 [12092:8676:1218/100916.260:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 10:09:16.262 [12092:8676:1218/100916.261:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 10:09:16.263 [12092:16064:1218/100916.263:ERROR:device_event_log_impl.cc(214)] [10:09:16.262] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 10:09:16.265 [12092:16064:1218/100916.265:ERROR:device_event_log_impl.cc(214)] [10:09:16.265] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 10:30:54.31 [8408:10648:1218/103054.031:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 10:30:54.32 [8408:10648:1218/103054.031:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 10:30:54.32 [8408:10648:1218/103054.031:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 10:30:54.32 [8408:10648:1218/103054.032:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 10:30:54.34 [8408:6008:1218/103054.034:ERROR:device_event_log_impl.cc(214)] [10:30:54.035] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 10:30:54.36 [8408:6008:1218/103054.036:ERROR:device_event_log_impl.cc(214)] [10:30:54.037] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 10:58:43.626 [10592:14552:1218/105843.625:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 10:58:43.626 [10592:14552:1218/105843.625:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 10:58:43.626 [10592:14552:1218/105843.625:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 10:58:43.626 [10592:14552:1218/105843.626:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 10:58:43.628 [10592:5420:1218/105843.628:ERROR:device_event_log_impl.cc(214)] [10:58:43.629] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 10:58:43.631 [10592:5420:1218/105843.631:ERROR:device_event_log_impl.cc(214)] [10:58:43.631] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 11:03:05.93 [8048:15584:1218/110305.093:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 11:03:05.94 [8048:15584:1218/110305.093:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 11:03:05.98 [8048:15584:1218/110305.093:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 11:03:05.98 [8048:15584:1218/110305.094:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 11:03:05.98 [8048:9520:1218/110305.096:ERROR:device_event_log_impl.cc(214)] [11:03:05.095] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 11:03:05.102 [8048:9520:1218/110305.101:ERROR:device_event_log_impl.cc(214)] [11:03:05.101] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 11:08:11.719 [1220:7240:1218/110811.719:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 11:08:11.720 [1220:7240:1218/110811.719:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 11:08:11.720 [1220:7240:1218/110811.719:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 11:08:11.720 [1220:7240:1218/110811.720:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 11:08:11.722 [1220:15108:1218/110811.722:ERROR:device_event_log_impl.cc(214)] [11:08:11.723] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 11:08:11.725 [1220:15108:1218/110811.725:ERROR:device_event_log_impl.cc(214)] [11:08:11.725] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 11:09:46.438 [15336:5680:1218/110946.438:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 11:09:46.439 [15336:5680:1218/110946.438:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 11:09:46.439 [15336:5680:1218/110946.438:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 11:09:46.439 [15336:5680:1218/110946.439:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 11:09:46.441 [15336:14232:1218/110946.441:ERROR:device_event_log_impl.cc(214)] [11:09:46.442] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 11:09:46.444 [15336:14232:1218/110946.444:ERROR:device_event_log_impl.cc(214)] [11:09:46.444] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 11:11:31.169 [276:15916:1218/111131.168:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 11:11:31.169 [276:15916:1218/111131.168:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 11:11:31.169 [276:15916:1218/111131.168:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 11:11:31.169 [276:15916:1218/111131.169:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 11:11:31.172 [276:9488:1218/111131.172:ERROR:device_event_log_impl.cc(214)] [11:11:31.172] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 11:11:31.175 [276:9488:1218/111131.174:ERROR:device_event_log_impl.cc(214)] [11:11:31.175] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 11:25:12.229 [11708:3708:1218/112512.228:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 11:25:12.229 [11708:3708:1218/112512.228:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 11:25:12.229 [11708:3708:1218/112512.228:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 11:25:12.229 [11708:3708:1218/112512.229:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 11:25:12.231 [11708:6584:1218/112512.231:ERROR:device_event_log_impl.cc(214)] [11:25:12.231] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 11:25:12.234 [11708:6584:1218/112512.233:ERROR:device_event_log_impl.cc(214)] [11:25:12.233] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 11:34:42.988 [16140:2768:1218/113442.988:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 11:34:42.989 [16140:2768:1218/113442.988:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 11:34:42.989 [16140:2768:1218/113442.988:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 11:34:42.989 [16140:2768:1218/113442.989:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 11:34:42.991 [16140:1836:1218/113442.991:ERROR:device_event_log_impl.cc(214)] [11:34:42.991] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 11:34:42.994 [16140:1836:1218/113442.994:ERROR:device_event_log_impl.cc(214)] [11:34:42.994] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 11:47:15.778 [8612:10884:1218/114715.778:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 11:47:15.779 [8612:10884:1218/114715.778:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 11:47:15.779 [8612:10884:1218/114715.778:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 11:47:15.779 [8612:10884:1218/114715.779:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 11:47:15.781 [8612:7972:1218/114715.781:ERROR:device_event_log_impl.cc(214)] [11:47:15.780] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 11:47:15.783 [8612:7972:1218/114715.783:ERROR:device_event_log_impl.cc(214)] [11:47:15.783] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 12:00:33.120 [13164:15152:1218/120033.120:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 12:00:33.121 [13164:15152:1218/120033.120:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 12:00:33.125 [13164:15152:1218/120033.120:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 12:00:33.125 [13164:15152:1218/120033.121:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 12:00:33.125 [13164:1896:1218/120033.123:ERROR:device_event_log_impl.cc(214)] [12:00:33.123] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 12:00:33.127 [13164:1896:1218/120033.127:ERROR:device_event_log_impl.cc(214)] [12:00:33.127] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 12:07:55.777 [15996:9220:1218/120755.777:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 12:07:55.777 [15996:9220:1218/120755.777:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 12:07:55.777 [15996:9220:1218/120755.777:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 12:07:55.777 [15996:9220:1218/120755.777:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 12:07:55.780 [15996:12172:1218/120755.780:ERROR:device_event_log_impl.cc(214)] [12:07:55.780] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 12:07:55.783 [15996:12172:1218/120755.783:ERROR:device_event_log_impl.cc(214)] [12:07:55.783] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 12:13:54.114 [5828:8336:1218/121354.113:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 12:13:54.114 [5828:8336:1218/121354.113:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 12:13:54.114 [5828:8336:1218/121354.113:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 12:13:54.114 [5828:8336:1218/121354.114:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 12:13:54.117 [5828:14244:1218/121354.116:ERROR:device_event_log_impl.cc(214)] [12:13:54.116] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 12:13:54.119 [5828:14244:1218/121354.119:ERROR:device_event_log_impl.cc(214)] [12:13:54.118] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 15:10:37.21 [5828:14244:1218/151037.020:ERROR:device_event_log_impl.cc(214)] [15:10:37.020] USB: usb_service_win.cc:261 Failed to get device driver name: 元素找不到。 (0x490)
+12月 18, 2021 15:22:01.86 [13112:8732:1218/152201.086:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 15:22:01.87 [13112:8732:1218/152201.086:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 15:22:01.87 [13112:8732:1218/152201.086:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 15:22:01.87 [13112:8732:1218/152201.087:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 15:22:01.89 [13112:10720:1218/152201.089:ERROR:device_event_log_impl.cc(214)] [15:22:01.089] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 15:22:01.92 [13112:10720:1218/152201.092:ERROR:device_event_log_impl.cc(214)] [15:22:01.092] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 15:22:48.698 [4636:1700:1218/152248.698:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 15:22:48.699 [4636:1700:1218/152248.698:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 15:22:48.703 [4636:1700:1218/152248.698:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 15:22:48.703 [4636:1700:1218/152248.699:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 15:22:48.703 [4636:11836:1218/152248.701:ERROR:device_event_log_impl.cc(214)] [15:22:48.701] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 15:22:48.703 [4636:11836:1218/152248.703:ERROR:device_event_log_impl.cc(214)] [15:22:48.703] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 15:45:30.50 [5756:13040:1218/154530.049:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 15:45:30.50 [5756:13040:1218/154530.049:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 15:45:30.50 [5756:13040:1218/154530.049:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 15:45:30.50 [5756:13040:1218/154530.050:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 15:45:30.52 [5756:8920:1218/154530.052:ERROR:device_event_log_impl.cc(214)] [15:45:30.053] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 15:45:30.55 [5756:8920:1218/154530.054:ERROR:device_event_log_impl.cc(214)] [15:45:30.055] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 15:45:41.753 [10208:7832:1218/154541.753:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 15:45:41.754 [10208:7832:1218/154541.753:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 15:45:41.754 [10208:7832:1218/154541.753:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 15:45:41.758 [10208:7832:1218/154541.754:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 15:45:41.758 [10208:14256:1218/154541.756:ERROR:device_event_log_impl.cc(214)] [15:45:41.756] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 15:45:41.758 [10208:14256:1218/154541.758:ERROR:device_event_log_impl.cc(214)] [15:45:41.758] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 15:48:51.445 [14220:2184:1218/154851.445:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 15:48:51.446 [14220:2184:1218/154851.445:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 15:48:51.450 [14220:2184:1218/154851.445:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 15:48:51.450 [14220:2184:1218/154851.446:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 15:48:51.450 [14220:3576:1218/154851.448:ERROR:device_event_log_impl.cc(214)] [15:48:51.448] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 15:48:51.450 [14220:3576:1218/154851.450:ERROR:device_event_log_impl.cc(214)] [15:48:51.450] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 15:51:29.146 [15628:2484:1218/155129.145:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 15:51:29.146 [15628:2484:1218/155129.145:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 15:51:29.146 [15628:2484:1218/155129.145:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 15:51:29.146 [15628:2484:1218/155129.146:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 15:51:29.149 [15628:9532:1218/155129.149:ERROR:device_event_log_impl.cc(214)] [15:51:29.149] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 15:51:29.151 [15628:9532:1218/155129.151:ERROR:device_event_log_impl.cc(214)] [15:51:29.151] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 15:53:59.304 [12128:11276:1218/155359.304:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 15:53:59.305 [12128:11276:1218/155359.304:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 15:53:59.305 [12128:11276:1218/155359.304:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 15:53:59.305 [12128:11276:1218/155359.305:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 15:53:59.307 [12128:8756:1218/155359.307:ERROR:device_event_log_impl.cc(214)] [15:53:59.308] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 15:53:59.309 [12128:8756:1218/155359.309:ERROR:device_event_log_impl.cc(214)] [15:53:59.310] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 16:41:26.609 [2872:10416:1218/164126.609:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 16:41:26.609 [2872:10416:1218/164126.609:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 16:41:26.609 [2872:10416:1218/164126.609:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 16:41:26.614 [2872:10416:1218/164126.609:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 16:41:26.614 [2872:15828:1218/164126.612:ERROR:device_event_log_impl.cc(214)] [16:41:26.612] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 16:41:26.617 [2872:15828:1218/164126.617:ERROR:device_event_log_impl.cc(214)] [16:41:26.617] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 16:41:38.900 [6768:16184:1218/164138.899:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 16:41:38.900 [6768:16184:1218/164138.899:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 16:41:38.904 [6768:16184:1218/164138.899:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 16:41:38.904 [6768:16184:1218/164138.900:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 16:41:38.904 [6768:10556:1218/164138.902:ERROR:device_event_log_impl.cc(214)] [16:41:38.902] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 16:41:38.904 [6768:10556:1218/164138.904:ERROR:device_event_log_impl.cc(214)] [16:41:38.904] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 17:10:39.739 [11292:5576:1218/171039.739:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 17:10:39.740 [11292:5576:1218/171039.739:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 17:10:39.740 [11292:5576:1218/171039.739:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 17:10:39.740 [11292:5576:1218/171039.740:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 17:10:39.743 [11292:10612:1218/171039.743:ERROR:device_event_log_impl.cc(214)] [17:10:39.742] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 17:10:39.745 [11292:10612:1218/171039.745:ERROR:device_event_log_impl.cc(214)] [17:10:39.745] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 17:26:03.606 [15548:1536:1218/172603.605:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 17:26:03.606 [15548:1536:1218/172603.605:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 17:26:03.606 [15548:1536:1218/172603.605:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 17:26:03.606 [15548:1536:1218/172603.606:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 17:26:03.609 [15548:16072:1218/172603.608:ERROR:device_event_log_impl.cc(214)] [17:26:03.609] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 17:26:03.611 [15548:16072:1218/172603.611:ERROR:device_event_log_impl.cc(214)] [17:26:03.611] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 17:27:17.145 [7028:1704:1218/172717.144:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 17:27:17.145 [7028:1704:1218/172717.144:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 17:27:17.145 [7028:1704:1218/172717.144:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 17:27:17.145 [7028:1704:1218/172717.145:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 17:27:17.148 [7028:15936:1218/172717.147:ERROR:device_event_log_impl.cc(214)] [17:27:17.148] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 17:27:17.150 [7028:15936:1218/172717.150:ERROR:device_event_log_impl.cc(214)] [17:27:17.150] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 17:28:30.306 [7092:13432:1218/172830.305:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 17:28:30.306 [7092:13432:1218/172830.305:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 17:28:30.306 [7092:13432:1218/172830.305:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 17:28:30.306 [7092:13432:1218/172830.306:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 17:28:30.309 [7092:3716:1218/172830.308:ERROR:device_event_log_impl.cc(214)] [17:28:30.309] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 17:28:30.311 [7092:3716:1218/172830.311:ERROR:device_event_log_impl.cc(214)] [17:28:30.312] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 17:29:48.71 [9616:8444:1218/172948.070:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 17:29:48.71 [9616:8444:1218/172948.070:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 17:29:48.71 [9616:8444:1218/172948.070:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 17:29:48.71 [9616:8444:1218/172948.071:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 17:29:48.73 [9616:4700:1218/172948.073:ERROR:device_event_log_impl.cc(214)] [17:29:48.074] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 17:29:48.76 [9616:4700:1218/172948.076:ERROR:device_event_log_impl.cc(214)] [17:29:48.077] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 17:52:32.458 [8776:14708:1218/175232.457:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 17:52:32.458 [8776:14708:1218/175232.457:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 17:52:32.458 [8776:14708:1218/175232.457:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 17:52:32.458 [8776:14708:1218/175232.458:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 17:52:32.460 [8776:16164:1218/175232.460:ERROR:device_event_log_impl.cc(214)] [17:52:32.459] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 17:52:32.462 [8776:16164:1218/175232.462:ERROR:device_event_log_impl.cc(214)] [17:52:32.461] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 19:09:47.456 [11796:7092:1218/190947.456:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 19:09:47.456 [11796:7092:1218/190947.456:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 19:09:47.456 [11796:7092:1218/190947.456:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 19:09:47.457 [11796:7092:1218/190947.457:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 19:09:47.458 [11796:9532:1218/190947.458:ERROR:device_event_log_impl.cc(214)] [19:09:47.458] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 19:09:47.460 [11796:9532:1218/190947.460:ERROR:device_event_log_impl.cc(214)] [19:09:47.460] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 19:23:01.224 [9540:5744:1218/192301.224:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 19:23:01.225 [9540:5744:1218/192301.224:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 19:23:01.225 [9540:5744:1218/192301.224:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 19:23:01.225 [9540:5744:1218/192301.225:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 19:23:01.227 [9540:12528:1218/192301.227:ERROR:device_event_log_impl.cc(214)] [19:23:01.227] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 19:23:01.230 [9540:12528:1218/192301.230:ERROR:device_event_log_impl.cc(214)] [19:23:01.229] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 19:25:03.877 [10788:14276:1218/192503.877:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 19:25:03.878 [10788:14276:1218/192503.877:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 19:25:03.878 [10788:14276:1218/192503.877:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 19:25:03.878 [10788:14276:1218/192503.878:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 19:25:03.880 [10788:8784:1218/192503.880:ERROR:device_event_log_impl.cc(214)] [19:25:03.879] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 19:25:03.882 [10788:8784:1218/192503.882:ERROR:device_event_log_impl.cc(214)] [19:25:03.882] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 19:39:03.919 [10636:5936:1218/193903.919:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 19:39:03.920 [10636:5936:1218/193903.919:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 19:39:03.920 [10636:5936:1218/193903.919:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 19:39:03.920 [10636:5936:1218/193903.920:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 19:39:03.923 [10636:2832:1218/193903.923:ERROR:device_event_log_impl.cc(214)] [19:39:03.923] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 19:39:03.926 [10636:2832:1218/193903.926:ERROR:device_event_log_impl.cc(214)] [19:39:03.925] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 18, 2021 19:43:59.964 [8156:9504:1218/194359.964:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 18, 2021 19:43:59.964 [8156:9504:1218/194359.964:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 18, 2021 19:43:59.964 [8156:9504:1218/194359.964:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 18, 2021 19:43:59.968 [8156:9504:1218/194359.964:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 18, 2021 19:43:59.968 [8156:8448:1218/194359.966:ERROR:device_event_log_impl.cc(214)] [19:43:59.966] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 18, 2021 19:43:59.971 [8156:8448:1218/194359.971:ERROR:device_event_log_impl.cc(214)] [19:43:59.972] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 19, 2021 19:36:39.589 NEW SESSION
+12月 19, 2021 19:36:39.589 [1704:4676:1219/193639.588:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:36:39.590 [1704:4676:1219/193639.588:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:36:39.590 [1704:4676:1219/193639.588:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:36:39.590 [1704:4676:1219/193639.589:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:36:39.592 [1704:7024:1219/193639.592:ERROR:device_event_log_impl.cc(214)] [19:36:39.592] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:36:39.594 [1704:7024:1219/193639.594:ERROR:device_event_log_impl.cc(214)] [19:36:39.594] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 19, 2021 19:37:08.509 [9432:13932:1219/193708.509:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:37:08.510 [9432:13932:1219/193708.509:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:37:08.514 [9432:13932:1219/193708.509:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:37:08.514 [9432:13932:1219/193708.510:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:37:08.514 [9432:5464:1219/193708.512:ERROR:device_event_log_impl.cc(214)] [19:37:08.512] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:37:08.515 [9432:5464:1219/193708.514:ERROR:device_event_log_impl.cc(214)] [19:37:08.514] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 19, 2021 19:40:15.358 [15504:9540:1219/194015.358:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:40:15.359 [15504:9540:1219/194015.358:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:40:15.359 [15504:9540:1219/194015.358:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:40:15.359 [15504:9540:1219/194015.359:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:40:15.361 [15504:10396:1219/194015.361:ERROR:device_event_log_impl.cc(214)] [19:40:15.362] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:40:15.364 [15504:10396:1219/194015.364:ERROR:device_event_log_impl.cc(214)] [19:40:15.364] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 19, 2021 19:41:16.481 [9152:10620:1219/194116.480:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:41:16.485 [9152:10620:1219/194116.480:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:41:16.485 [9152:10620:1219/194116.480:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:41:16.486 [9152:10620:1219/194116.481:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:41:16.486 [9152:16004:1219/194116.483:ERROR:device_event_log_impl.cc(214)] [19:41:16.483] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:41:16.486 [9152:16004:1219/194116.485:ERROR:device_event_log_impl.cc(214)] [19:41:16.485] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 19, 2021 19:42:55.456 [8504:15692:1219/194255.455:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:42:55.456 [8504:15692:1219/194255.455:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:42:55.456 [8504:15692:1219/194255.455:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:42:55.456 [8504:15692:1219/194255.456:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:42:55.458 [8504:8540:1219/194255.458:ERROR:device_event_log_impl.cc(214)] [19:42:55.459] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:42:55.461 [8504:8540:1219/194255.461:ERROR:device_event_log_impl.cc(214)] [19:42:55.461] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 19, 2021 19:43:20.397 [5912:14692:1219/194320.397:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:43:20.398 [5912:14692:1219/194320.397:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:43:20.398 [5912:14692:1219/194320.397:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:43:20.398 [5912:14692:1219/194320.398:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:43:20.400 [5912:13452:1219/194320.400:ERROR:device_event_log_impl.cc(214)] [19:43:20.399] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:43:20.402 [5912:13452:1219/194320.402:ERROR:device_event_log_impl.cc(214)] [19:43:20.401] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 19, 2021 19:44:06.428 NEW SESSION
+12月 19, 2021 19:44:06.428 [11108:236:1219/194406.427:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:44:06.429 [11108:236:1219/194406.427:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:44:06.429 [11108:236:1219/194406.427:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:44:06.429 [11108:236:1219/194406.428:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:44:06.431 [11108:4964:1219/194406.431:ERROR:device_event_log_impl.cc(214)] [19:44:06.431] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:44:06.433 [11108:4964:1219/194406.433:ERROR:device_event_log_impl.cc(214)] [19:44:06.433] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 19, 2021 19:44:57.223 NEW SESSION
+12月 19, 2021 19:44:57.223 [14816:16128:1219/194457.222:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:44:57.223 [14816:16128:1219/194457.222:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:44:57.224 [14816:16128:1219/194457.222:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:44:57.224 [14816:16128:1219/194457.223:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:44:57.225 [14816:1328:1219/194457.225:ERROR:device_event_log_impl.cc(214)] [19:44:57.225] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:44:57.229 [14816:1328:1219/194457.228:ERROR:device_event_log_impl.cc(214)] [19:44:57.228] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 19, 2021 19:47:21.816 NEW SESSION
+12月 19, 2021 19:47:21.816 [4560:10504:1219/194721.815:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:47:21.817 [4560:10504:1219/194721.815:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:47:21.817 [4560:10504:1219/194721.815:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:47:21.818 [4560:10504:1219/194721.816:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:47:21.818 [4560:4616:1219/194721.818:ERROR:device_event_log_impl.cc(214)] [19:47:21.818] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:47:21.828 [4560:4616:1219/194721.828:ERROR:device_event_log_impl.cc(214)] [19:47:21.829] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+12月 19, 2021 19:48:17.63 [12280:10840:1219/194817.063:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:48:17.64 [12280:10840:1219/194817.063:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:48:17.64 [12280:10840:1219/194817.063:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:48:17.64 [12280:10840:1219/194817.064:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:48:17.66 [12280:13172:1219/194817.066:ERROR:device_event_log_impl.cc(214)] [19:48:17.067] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:48:17.69 [12280:13172:1219/194817.068:ERROR:device_event_log_impl.cc(214)] [19:48:17.069] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+12月 19, 2021 19:50:01.963 NEW SESSION
+12月 19, 2021 19:50:01.963 [3496:3256:1219/195001.962:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12月 19, 2021 19:50:01.965 [3496:3256:1219/195001.962:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12月 19, 2021 19:50:01.965 [3496:3256:1219/195001.962:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12月 19, 2021 19:50:01.966 [3496:3256:1219/195001.963:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12月 19, 2021 19:50:01.966 [3496:1592:1219/195001.965:ERROR:device_event_log_impl.cc(214)] [19:50:01.965] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 連結到系統的某個裝置失去作用。 (0x1F)
+12月 19, 2021 19:50:01.968 [3496:1592:1219/195001.967:ERROR:device_event_log_impl.cc(214)] [19:50:01.968] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.

@@ -1,0 +1,5 @@
+package tw.cinema.util;
+
+public class HibernateUtil {
+
+}

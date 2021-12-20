@@ -1,0 +1,46 @@
+package tw.cinema.model;
+
+import java.util.List;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.query.Query;
+
+import tw.cinema.util.HibernateUtil;
+
+public class MovieDao {
+
+	private SessionFactory factory;
+
+	public MovieDao() {
+		this.factory = HibernateUtil.getSessionFactory();
+	}
+
+	public Movie insert(Movie movie) {
+
+		Session session = factory.getCurrentSession();
+		Movie newMovie = session.get(Movie.class, movie.getMovie_No());
+		if (newMovie == null) {
+			session.save(movie);
+			return movie;
+		}
+
+		return null;
+	}
+	
+	public boolean delete(String movieName) {
+		
+		Session session = factory.getCurrentSession();
+		System.out.println("s");
+		Movie theMovie = session.get(Movie.class, movieName);
+		System.out.println("d");
+		if (theMovie !=null) {
+			session.delete(theMovie);
+			System.out.println("a");
+			return true;
+		}
+		return false;
+	}
+	
+
+}

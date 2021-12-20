@@ -1,0 +1,9 @@
+package tw.cinema.model;
+
+public class MovieDao {
+
+	public MovieDao() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,81 @@
+package tw.cinema.model;
+
+import java.io.Serializable;
+import java.util.Date;
+
+public class Movie implements Serializable {
+	
+	private int movie_No;
+	private String movie;
+	private Date date;
+	private int length;
+	private String type;
+	private String grading;
+	private String release;
+	private String director;
+	private String actor;
+	private String intro;
+	
+	public int getMovie_No() {
+		return movie_No;
+	}
+	public void setMovie_No(int movie_No) {
+		this.movie_No = movie_No;
+	}
+	public String getMovie() {
+		return movie;
+	}
+	public void setMovie(String movie) {
+		this.movie = movie;
+	}
+	public Date getDate() {
+		return date;
+	}
+	public void setDate(Date date) {
+		this.date = date;
+	}
+	public int getLength() {
+		return length;
+	}
+	public void setLength(int length) {
+		this.length = length;
+	}
+	public String getType() {
+		return type;
+	}
+	public void setType(String type) {
+		this.type = type;
+	}
+	public String getGrading() {
+		return grading;
+	}
+	public void setGrading(String grading) {
+		this.grading = grading;
+	}
+	public String getRelease() {
+		return release;
+	}
+	public void setRelease(String release) {
+		this.release = release;
+	}
+	public String getDirector() {
+		return director;
+	}
+	public void setDirector(String director) {
+		this.director = director;
+	}
+	public String getActor() {
+		return actor;
+	}
+	public void setActor(String actor) {
+		this.actor = actor;
+	}
+	public String getIntro() {
+		return intro;
+	}
+	public void setIntro(String intro) {
+		this.intro = intro;
+	}
+	
+	
+}

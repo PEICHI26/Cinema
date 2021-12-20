@@ -1,0 +1,29 @@
+package tw.cinema.model;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+
+import tw.cinema.util.HibernateUtil;
+
+public class MovieDao {
+	
+	private SessionFactory factory;
+	
+	public MovieDao() {
+	this.factory = HibernateUtil.getSessionFactory();
+	}
+	
+	public Movie insert(Movie movie) {
+		
+			Session session = factory.getCurrentSession();
+			Movie newMovie = session.get(Movie.class, movie.getMovie_No());
+			if (newMovie==null) {
+				session.save(newMovie);
+				return movie;
+			}
+		
+			return null;
+		
+	}
+
+}
